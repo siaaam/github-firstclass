@@ -1,0 +1,27 @@
+cd - change directory
+ls - showing all files and folder of current directory
+mkdir - make directory in current directory
+code . - open vs code
+rm - delete file/folder
+cd.. - undo/back 1 level from current directory
+type nul > filename.fileextention
+clear - clear working space
+
+
+//
+
+d drive > create folder (learning-terminal) > 2 folder (html-css , javascript - delete)
+
+html-css - 3 file (index.html, style.css , oops.txt - delete)
+
+
+// git - change log - 
+// github - 
+
+
+1. git init
+2. ❯ git branch -M main
+2. git add . - (git add all/ all file will be added to git)
+3. git commit -m 'write something here'  (what changes have been done)
+4. git status - show status of a git
+5.
